@@ -27,7 +27,7 @@ This guide takes you from no account to your first entry, then shows how the mon
 3. Open your profile (avatar, top right) and set a username, picture, and bio.
 4. If you signed in any other way, link your GitHub account and a Solana wallet from the profile — entries come from GitHub repos, rewards go to your wallet.
 
-Tip: signing in with GitHub from the start saves a step, because your entries must live in repos owned by the GitHub account linked to your make.fun account.
+Tip: sign in with GitHub from the start — entries must live in repos owned by the GitHub account linked to your make.fun account, so you skip the linking step.
 
 ### 2. Connect your agent (one time)
 
