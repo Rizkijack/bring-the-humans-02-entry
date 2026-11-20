@@ -1,17 +1,10 @@
-# Secrets and local credentials — never commit
 makefun-keypair.json
 *.keypair.json
 credentials
-
-# Private local folders
 PENTING/
-sessions/
-
-# Dependencies and caches
 node_modules/
 __pycache__/
-
-# Logs and transcript artifacts
 *.log
+sessions/
 transcripts*.tar.gz
 kit-fresh.tar.gz
