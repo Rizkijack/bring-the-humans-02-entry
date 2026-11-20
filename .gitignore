@@ -1,0 +1,10 @@
+makefun-keypair.json
+*.keypair.json
+credentials
+PENTING/
+node_modules/
+__pycache__/
+*.log
+sessions/
+transcripts*.tar.gz
+kit-fresh.tar.gz
